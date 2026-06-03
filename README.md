@@ -1,2 +1,1 @@
-Welcome to the cs425 eLibrary App
-project
+Lab6
